@@ -2,6 +2,8 @@
 
 no drink, no hack
 
+**Assembly guide / 作り方 — [日本語](docs/ASSEMBLY_JA.md) · [English](docs/ASSEMBLY_EN.md)**
+
 自分ではんだ付けして光らせる、AVTOKYOのPCBチャームです。基本セットは赤いLEDが2個点灯します。さらにATtiny402を追加すると、プログラムで点滅を変えられます。
 
 **はじめて組み立てる方は、[組立説明書](docs/ASSEMBLY_JA.md)から始めてください。**

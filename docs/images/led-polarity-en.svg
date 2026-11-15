@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+<rect width="760" height="230" rx="16" fill="#f4f5f7"/>
+<g font-family="sans-serif" fill="#152334" font-size="21">
+<text x="28" y="38" font-weight="bold">LED leads and PCB pads</text>
+<rect x="38" y="68" width="60" height="60" fill="#b5bec8" stroke="#182331" stroke-width="3"/>
+<text x="120" y="95">Square pad — K−</text><text x="120" y="124">Short lead / negative</text>
+<rect x="402" y="68" width="60" height="60" rx="25" fill="#b5bec8" stroke="#182331" stroke-width="3"/>
+<text x="484" y="95">Rounded pad — A+</text><text x="484" y="124">Long lead / positive</text>
+<text x="28" y="183" font-size="18">Left and right reverse when you turn the board over. Check A+ / K−.</text>
+<text x="28" y="211" font-size="18">LED bodies go on the artwork side. Solder on the battery side.</text>
+</g></svg>
