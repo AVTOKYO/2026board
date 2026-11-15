@@ -1,0 +1,1 @@
+(fp_lib_table (lib (name "AVTOKYO")(type "KiCad")(uri "${KIPRJMOD}/AVTOKYO.pretty")(options "")(descr "Vendored footprints for review")))
