@@ -1,5 +1,7 @@
 # AVTOKYO 2026 LED Charm
 
+[English](README_EN.md)
+
 no drink, no hack
 
 **Assembly guide / 作り方 — [日本語](docs/ASSEMBLY_JA.md) · [English](docs/ASSEMBLY_EN.md)**
@@ -14,6 +16,7 @@ no drink, no hack
 | 用意する部品 | [部品表](docs/PARTS_JA.md) |
 | MCUを追加する工作 | [改造ガイド](docs/HACK_JA.md) |
 | 書き込みと点滅プログラム | [ファームウェア説明](firmware/README_JA.md) |
+| 裏蓋・ケース | [固定方法・STL](case/README.md) |
 | 基板を発注する | [製造手順](manufacturing/README.md) |
 | 最終製造用データ | [Rev M Gerber ZIP](manufacturing/AVTOKYO_LED_Charm_RevM_FINAL_JLCPCB.zip) |
 | 編集する基板データ | [KiCad PCB](hardware/AVTOKYO_LED_Charm.kicad_pcb)・[回路図](hardware/AVTOKYO_LED_Charm.kicad_sch) |

@@ -1,5 +1,7 @@
 # ATtiny402 ゆっくり点滅・初回動作確認
 
+[English](README_EN.md)
+
 AVTOKYO_SlowBlink/AVTOKYO_SlowBlink.ino をArduino IDEで開く。
 2つのLEDを同時に1秒点灯、2秒消灯。ON_MS / OFF_MSで変更可能。
 これは明確なON/OFFの確認用。フェードや省電力スリープは未実装。

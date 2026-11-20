@@ -100,6 +100,10 @@ Remove the battery before reworking solder joints. If the JP1 or JP2 connection 
 
 ## Further modifications
 
-U1, C1, D3, D4, the HACK port, and the G/V/U connector support additional experiments. After checking basic operation, see the [MCU modification guide (Japanese)](HACK_JA.md) and [programming instructions (Japanese)](../firmware/README_JA.md).
+U1, C1, D3, D4, the HACK port, and the G/V/U connector support additional experiments. After checking basic operation, see the [MCU modification guide](HACK_EN.md) and [programming instructions](../firmware/README_EN.md).
 
 This guide uses the specified red LEDs with 1kΩ resistors. For two-lead automatic color-changing RGB LEDs, select resistors suitable for the actual LEDs and check that both LEDs complete their color cycles together on a CR2032.
+
+## Optional rear cover
+
+Print [case.stl](../case/case.stl) and secure the lower part with an **M1 × 3mm screw**. See the [case instructions](../case/README_EN.md).

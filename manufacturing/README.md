@@ -1,5 +1,7 @@
 # 製造データ — Rev M
 
+[English](README_EN.md)
+
 JLCPCBへ `AVTOKYO_LED_Charm_RevM_FINAL_JLCPCB.zip` をアップロードします。ZIPには銅箔・レジスト・シルク・外形のGerber 7点と、めっき穴・非めっき穴のドリル2点が入っています。
 
 ## 注文仕様
