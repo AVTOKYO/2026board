@@ -1,5 +1,7 @@
 # Basic assembly — AVTOKYO LED Charm Rev M
 
+This guide shows **one of the simplest configurations**: two red LEDs with resistors. You are free to change or add components and experiment with MCU control. Check component ratings, polarity, and resistor values when making changes. See [licensing and modifications](LICENSE_EN.md).
+
 [日本語](ASSEMBLY_JA.md)
 
 Build a charm with two red LEDs controlled by a power switch.

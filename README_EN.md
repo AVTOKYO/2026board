@@ -25,6 +25,8 @@ These documents cover Rev M. The schematic and PCB files were saved with KiCad 1
 
 The manufacturing data passed DRC, including schematic parity checks, and ERC. Reports are included in `validation`. Final results for physical assembly and MCU programming on Rev M have not yet been recorded in this repository.
 
-## Licensing before public release
+## Licensing and modifications
 
-Before public release, decide on licenses for the hardware files, firmware, and documentation, and the terms for using the AVTOKYO logo.
+Building, modifying, redistributing, and selling are allowed under the applicable licenses. See the [license guide](docs/LICENSE_EN.md) and [logo usage terms](LOGO_POLICY.md). The case STL license is awaiting its author’s agreement.
+
+The assembly guide is a minimal example, not a required configuration. Feel free to change LEDs, add components, or program an MCU to create your own patterns.

@@ -8,3 +8,5 @@
 ![Rear cover reference photo](../docs/images/case.jpg)
 
 Screw quantity, head style, and thread type, as well as material and print settings, have not yet been specified. Check that the assembled cover allows battery replacement and access to the switch.
+
+The STL license is awaiting its author’s agreement. Adding this documentation does not change the permissions for the STL.
