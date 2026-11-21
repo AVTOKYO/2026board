@@ -21,8 +21,8 @@ permission to reproduce the logo as part of this board and branding rules.
 These rules do not add restrictions to the separately licensed circuit,
 firmware, or documentation content.
 
-case/case.stl: license pending confirmation from its author; no new license
-is granted for that file by this notice. Case documentation is CC-BY-4.0.
+case/case.stl: CERN-OHL-P-2.0, with the author's agreement.
+See LICENSES/CERN-OHL-P-2.0.txt. Case documentation is CC-BY-4.0.
 
 Japanese explanation: docs/LICENSE_JA.md
 English explanation: docs/LICENSE_EN.md

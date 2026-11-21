@@ -27,6 +27,6 @@ The manufacturing data passed DRC, including schematic parity checks, and ERC. R
 
 ## Licensing and modifications
 
-Building, modifying, redistributing, and selling are allowed under the applicable licenses. See the [license guide](docs/LICENSE_EN.md) and [logo usage terms](LOGO_POLICY.md). The case STL license is awaiting its author’s agreement.
+Building, modifying, redistributing, and selling are allowed under the applicable licenses. See the [license guide](docs/LICENSE_EN.md) and [logo usage terms](LOGO_POLICY.md). With its author’s agreement, the case STL uses CERN-OHL-P-2.0, the same license as the board.
 
 The assembly guide is a minimal example, not a required configuration. Feel free to change LEDs, add components, or program an MCU to create your own patterns.

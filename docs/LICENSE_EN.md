@@ -10,7 +10,7 @@ You are welcome to build, modify, and share this project. Commercial use and sal
 | Original firmware | [MIT](../LICENSES/MIT.txt) |
 | Original documentation and documentation images | [CC BY 4.0](../LICENSES/CC-BY-4.0.txt) |
 | AVTOKYO name and logo | [Separate usage terms](../LOGO_POLICY.md) |
-| Case STL | Awaiting the author's agreement; this update does not license the STL |
+| Case STL | [CERN-OHL-P-2.0](../LICENSES/CERN-OHL-P-2.0.txt), with the author's agreement |
 
 Third-party material retains its existing terms. Preserve individual author credits as well. See [LICENSE](../LICENSE) for the scope of each license.
 
