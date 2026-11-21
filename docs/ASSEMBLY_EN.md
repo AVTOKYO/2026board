@@ -1,4 +1,4 @@
-# Basic assembly — AVTOKYO LED Charm
+# Basic assembly — AVTOKYO 2026 Hackable Board
 
 This guide shows **one of the simplest configurations**: two red LEDs with resistors. You are free to change or add components and experiment with MCU control. Check component ratings, polarity, and resistor values when making changes. See [licensing and modifications](LICENSE_EN.md).
 

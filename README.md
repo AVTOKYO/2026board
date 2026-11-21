@@ -1,4 +1,4 @@
-# AVTOKYO 2026 LED Charm
+# AVTOKYO 2026 Hackable Board
 
 [English](README_EN.md)
 
