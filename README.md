@@ -6,9 +6,11 @@ no drink, no hack
 
 **Assembly guide / 作り方 — [日本語](docs/ASSEMBLY_JA.md) · [English](docs/ASSEMBLY_EN.md)**
 
-自分ではんだ付けして光らせる、AVTOKYOのPCBチャームです。基本セットは赤いLEDが2個点灯します。さらにATtiny402を追加すると、プログラムで点滅を変えられます。
+AVTOKYOのドット絵ロゴをモチーフにした、自由に工作・改造して楽しむPCBです。部品を付けずにチャームとして使うのも、LEDや好きな回路を追加するのも自由です。
 
-**はじめて組み立てる方は、[組立説明書](docs/ASSEMBLY_JA.md)から始めてください。**
+組み立て説明では、赤いLEDを2個点灯させるシンプルな例を紹介しています。ATtiny402を追加すると、プログラムで点滅を変えられます。
+
+**LEDを付けてみたい方は、[基本の作り方](docs/ASSEMBLY_JA.md)をご覧ください。**
 
 | 内容 | ファイル |
 |---|---|
@@ -21,7 +23,7 @@ no drink, no hack
 | 最終製造用データ | [Rev M Gerber ZIP](manufacturing/AVTOKYO_LED_Charm_RevM_FINAL_JLCPCB.zip) |
 | 編集する基板データ | [KiCad PCB](hardware/AVTOKYO_LED_Charm.kicad_pcb)・[回路図](hardware/AVTOKYO_LED_Charm.kicad_sch) |
 
-対象はRev Mです。回路図・基板データはKiCad 10で保存しています。ファイル一式をダウンロードしてから、hardware内のプロジェクトを開いてください。
+回路図・基板データはKiCad 10で保存しています。ファイル一式をダウンロードしてから、hardware内のプロジェクトを開いてください。
 
 ## 確認状況
 

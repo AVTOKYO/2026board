@@ -1,4 +1,4 @@
-# Parts list — Rev M
+# Parts list
 
 [日本語](PARTS_JA.md) · [Project overview](../README_EN.md)
 

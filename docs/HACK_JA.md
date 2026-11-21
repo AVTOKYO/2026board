@@ -1,4 +1,4 @@
-# MCUを追加する — Rev M
+# MCUを追加する
 
 [English](HACK_EN.md)
 

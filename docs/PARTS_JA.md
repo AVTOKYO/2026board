@@ -1,4 +1,4 @@
-# 部品表 — Rev M
+# 部品表
 
 [English](PARTS_EN.md)
 

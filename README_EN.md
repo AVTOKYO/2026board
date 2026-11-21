@@ -4,9 +4,11 @@ no drink, no hack
 
 [日本語](README.md)
 
-A DIY PCB charm for AVTOKYO. Solder the basic components to light up two red LEDs. Add an ATtiny402 to program blinking patterns.
+A PCB inspired by the AVTOKYO pixel-art logo, made for building and experimenting. Wear it as a bare-board charm, add LEDs, or try your own circuits.
 
-**Start with the [assembly guide](docs/ASSEMBLY_EN.md).**
+The assembly guide shows a simple example with two red LEDs. Add an ATtiny402 to program blinking patterns.
+
+**Want to add LEDs? Start with the [basic assembly guide](docs/ASSEMBLY_EN.md).**
 
 | Topic | File |
 |---|---|
@@ -19,7 +21,7 @@ A DIY PCB charm for AVTOKYO. Solder the basic components to light up two red LED
 | Editable board files | [KiCad PCB](hardware/AVTOKYO_LED_Charm.kicad_pcb) · [Schematic](hardware/AVTOKYO_LED_Charm.kicad_sch) |
 | Optional rear cover | [Case instructions and STL](case/README_EN.md) |
 
-These documents cover Rev M. The schematic and PCB files were saved with KiCad 10. Download the complete repository before opening the project in `hardware`.
+The schematic and PCB files were saved with KiCad 10. Download the complete repository before opening the project in `hardware`.
 
 ## Validation status
 

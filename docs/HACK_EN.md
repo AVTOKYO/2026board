@@ -1,4 +1,4 @@
-# Adding a microcontroller — Rev M
+# Adding a microcontroller
 
 [日本語](HACK_JA.md) · [Project overview](../README_EN.md)
 
