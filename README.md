@@ -4,6 +4,10 @@
 
 no drink, no hack
 
+| 未実装の基板（裏面・表面） | 赤LEDを付けた作例 |
+|---|---|
+| ![赤い基板の裏面と黒い基板の表面](docs/images/boards-front-back.jpg) | ![赤LEDを2個付けた基板の作例](docs/images/assembled-red-led.webp) |
+
 **Assembly guide / 作り方 — [日本語](docs/ASSEMBLY_JA.md) · [English](docs/ASSEMBLY_EN.md)**
 
 AVTOKYOのドット絵ロゴをモチーフにした、自由に工作・改造して楽しむPCBです。部品を付けずにチャームとして使うのも、LEDや好きな回路を追加するのも自由です。

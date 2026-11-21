@@ -2,6 +2,10 @@
 
 no drink, no hack
 
+| Bare boards: back and front | Example build with red LEDs |
+|---|---|
+| ![Back of a red PCB and front of a black PCB](docs/images/boards-front-back.jpg) | ![An assembled red board with two red LEDs](docs/images/assembled-red-led.webp) |
+
 [日本語](README.md)
 
 A PCB inspired by the AVTOKYO pixel-art logo, made for building and experimenting. Wear it as a bare-board charm, add LEDs, or try your own circuits.
